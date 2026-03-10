@@ -114,10 +114,10 @@ paths:
         - name: location
           in: query
           required: true
-          description: "Clinic location slug: cobham, esher, wimbledon, east-horsley"
+          description: "Clinic location slug: cobham, esher, wimbledon"
           schema:
             type: string
-            enum: [cobham, esher, wimbledon, east-horsley]
+            enum: [cobham, esher, wimbledon]
         - name: treatment
           in: query
           required: true

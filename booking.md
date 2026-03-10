@@ -22,7 +22,6 @@ Message the clinic directly — our team responds quickly during opening hours.
 | Cobham | [+44 7471 741680](https://wa.me/447471741680?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment) |
 | Esher | [+44 7471 741680](https://wa.me/447471741680?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment) |
 | Wimbledon | [+44 7511 841998](https://wa.me/447511841998?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment) |
-| East Horsley | [+44 7494 040010](https://wa.me/447494040010?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment) |
 
 ## Phone
 
@@ -31,7 +30,6 @@ Message the clinic directly — our team responds quickly during opening hours.
 | Cobham | 01932 690 800 |
 | Esher | 01372 826 649 |
 | Wimbledon | 020 8914 8400 |
-| East Horsley | 01483 315 309 |
 
 ## Check Availability via API
 

@@ -11,20 +11,18 @@ All injectable treatments (Botox, fillers, Profhilo, etc.) are performed by qual
 
 ### Dr Olivia McCormack
 - **Role**: Dentist & Facial Aesthetics Practitioner
-- **Background**: Trained at Bristol Dental School with experience in both private and NHS dentistry.
+- **Background**: Experienced in both private and NHS dentistry.
 
 ### Dr Yosra Albeyatti
 - **Role**: GP & Facial Aesthetics Practitioner
 - **Clinics**: Wimbledon
-- **Background**: Heads the Wimbledon clinic.
 
 ### Dr Bianca Coveva
 - **Role**: Dentist & Facial Aesthetics Practitioner
-- **Background**: Highly skilled with a strong commitment to safety.
 
 ### Dr Amina Albeyatti
 - **Role**: GP & Medical Aesthetics Practitioner
-- **Background**: Specialises in women's and children's health, minor surgery, and cosmetic dermatology.
+- **Background**: Specialises in women's health and cosmetic dermatology.
 
 ---
 

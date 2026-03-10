@@ -4,17 +4,18 @@ All treatments are carried out by qualified medical professionals (doctors) or e
 
 ## Consultations
 
-| Treatment | Duration | Deposit | Notes |
-|---|---|---|---|
-| Facial Aesthetics Consultation (Any Doctor) | 45 min | — | For new patients considering injectables |
-| Facial Aesthetics Consultation | 30 min | — | Standard consultation |
-| Skin Consultation (Therapist) | 30 min | — | For skin treatments and facials |
-| Skin Consultation (Therapist) | 15 min | — | Quick skin assessment |
-| Tear Trough Consultation | 30 min | £75 | Required before under-eye filler |
-| Rhinoplasty Consultation | 30 min | £75 | Required before non-surgical nose job |
-| Fat Loss AQUALYX Consultation | 15 min | £75 | Required before Aqualyx treatment |
-| Hair Rejuvenation Consultation | 20 min | £75 | Required before hair treatments |
-| Morpheus8 Consultation | 20 min | — | Required before Morpheus8 |
+| Treatment | Duration | Deposit |
+|---|---|---|
+| Facial Aesthetics (Any Doctor) | 45 min | — |
+| Facial Aesthetics Consultation | 30 min | — |
+| Skin Consultation (Therapist) | 30 min | — |
+| Skin Consultation (Therapist) 15 Mins | 15 min | — |
+| Tear Trough Consultation (Any Doctor) | 30 min | £75 |
+| Rhinoplasty Consultation (Any Doctor) | 30 min | £75 |
+| Fat Loss AQUALYX Consultation (Any Doctor) | 15 min | £75 |
+| Hair Rejuvenation Consultation (Any Doctor) | 20 min | £75 |
+| Morpheus8 Consultation | 20 min | — |
+| Women's Intimate Health Consultation | 45 min | — |
 
 ---
 
@@ -22,13 +23,13 @@ All treatments are carried out by qualified medical professionals (doctors) or e
 
 Botulinum toxin treatments to smooth wrinkles and treat medical conditions.
 
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| Anti-Wrinkle Treatment | 20 min | £75 | Targets forehead lines, frown lines, crow's feet |
-| Gummy Smile | 20 min | £75 | Reduces excessive gum exposure when smiling |
-| Lip Flip | 20 min | £75 | Subtle upper lip enhancement using Botox |
-| Masseter / Bruxism | 20 min | £75 | Treats teeth grinding and slims the jawline |
-| Neck Botox | 20 min | £75 | Smooths neck bands for a more youthful appearance |
+| Treatment | Duration | Deposit |
+|---|---|---|
+| Anti-wrinkle Treatment (Botox) | 20 min | £75 |
+| Gummy Smiles | 20 min | £75 |
+| Lip Flip | 20 min | £75 |
+| Masseter / Bruxism | 20 min | £75 |
+| Neck Botox | 20 min | £75 |
 
 ---
 
@@ -36,41 +37,23 @@ Botulinum toxin treatments to smooth wrinkles and treat medical conditions.
 
 Hyaluronic acid fillers for volume, contouring, and rejuvenation.
 
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| Lip Fillers | 30 min | £75 | Fuller, more defined lips. From £250 |
-| Dermal Fillers | 30 min | £75 | Cheeks, jaw, chin, smile lines, and other areas |
-| Non-Surgical Rhinoplasty | 30 min | £75 | Reshape the nose without surgery |
-| Tear Trough | 30 min | £75 | Reduces under-eye hollows and dark circles |
+| Treatment | Duration | Deposit |
+|---|---|---|
+| Lip Fillers | 30 min | £75 |
+| Dermal Fillers | 30 min | £75 |
 
 ---
 
-## Advanced Skin Rejuvenation
+## Advanced Skin Rejuvenation (Doctor)
 
-### Doctor treatments
-
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| PROFHILO | 20 min | £75 | Bio-remodelling — stimulates collagen for firmer, hydrated skin |
-| Polynucleotides (Face & Eyes) | 30 min | £75 | Hydrates and repairs skin, enhances elasticity |
-| HArmonyCa | 30 min | £75 | Hybrid filler — restores volume and stimulates collagen |
-| AQUAGOLD Fine Touch | 30 min | £75 | Micro-infusion of vitamins, Botox, and HA for a glow |
-| Skin Boosters | 30 min | £75 | Deep hydration and skin quality improvement |
-| PRP for Skin Rejuvenation | 30 min | £75 | Platelet-rich plasma promotes healing and regeneration |
-| Exosomes | 30 min | £75 | Growth factors to regenerate and repair skin cells |
-
-### Therapist treatments
-
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| Micro-Needling SkinPen (Face) | 45 min | £350 | Creates micro-channels for natural healing. Existing patients |
-| Obagi Blue Peel Radiance | 45 min | — | Professional-grade chemical peel |
-| Skin Peels (ZO Restorative) | 45 min | £270 | Addresses pigmentation, texture, and tone |
-| Skin Peels (ZO Stimulator) | 45 min | £270 | Refreshes and revitalises the skin |
-| LED Light Therapy | 30 min | — | Promotes collagen production and reduces inflammation |
-| iS Clinical Fire + Ice Facial | 45 min | — | Resurfacing and rejuvenating clinical facial |
-| iS Clinical Foaming Enzyme Facial | 45 min | — | Gentle exfoliating facial |
-| iS Clinical Cancer Care Harmony Facial | 45 min | — | Gentle facial suitable during cancer treatment |
+| Treatment | Duration | Deposit |
+|---|---|---|
+| PROFHILO | 20 min | £75 |
+| Polynucleotides (Face and Eyes) | 30 min | £75 |
+| HarmonyCa | 30 min | £75 |
+| AQUAGOLD Fine Touch | 30 min | £75 |
+| PRP Treatment for Hair | 30 min | £75 |
+| Exosome + SkinPen Hair Rejuvenation | 30 min | £75 |
 
 ---
 
@@ -78,28 +61,46 @@ Hyaluronic acid fillers for volume, contouring, and rejuvenation.
 
 Deep-cleansing, hydrating facials suitable for all skin types.
 
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| Hydrafacial Deluxe | 60 min | £75 | Deep cleansing, extraction, and hydration |
-| Wellface Ultimate Hydrafacial | 75 min | £75 | Our most comprehensive Hydrafacial experience |
-| Advanced Fusion Facial | 75 min | — | Customised advanced treatment |
-| Wet Diamond Hydrafacial | 60 min | — | Premium diamond-tip Hydrafacial |
-| Teenage Hydrafacial | 45 min | — | Gentle facial for younger skin |
-| Hydrafacial Body | 50 min | — | Full-body deep cleansing and hydration |
-| Hydrafacial Keravive (Full Scalp) | 75 min | £75 | Scalp health — cleanse, exfoliate, hydrate |
-| Hydrafacial Keravive (Half Scalp) | 45 min | £75 | Targeted scalp rejuvenation |
+| Treatment | Duration | Deposit |
+|---|---|---|
+| Hydrafacial Deluxe | 60 min | £75 |
+| Wellface Ultimate Hydrafacial | 75 min | £75 |
+| Advanced Fusion Facial | 75 min | — |
+| Advanced Fusion D | 30 min | — |
+| Wet Diamond Hydrafacial | 60 min | — |
+| Teenage Hydrafacial | 45 min | — |
+| Hydrafacial Body | 50 min | — |
+| Hydrafacial Keravive (Full Scalp) | 75 min | £75 |
+| Hydrafacial Keravive (Half Scalp) | 45 min | £75 |
+
+---
+
+## Skin Treatments (Therapist)
+
+| Treatment | Duration | Deposit |
+|---|---|---|
+| Micro-Needling SkinPen for Face (Existing Patients) | 45 min | £75 |
+| Obagi Blue Peel Radiance | 45 min | — |
+| ZO Restorative Peel | 45 min | — |
+| ZO Stimulator Peel | 45 min | — |
+| ZO Add On Peel | 15 min | — |
+| LED Light Therapy | 30 min | — |
+| iS Clinical Fire + Ice Facial | 45 min | — |
+| iS Clinical Foaming Enzyme Facial | 45 min | — |
+| iS Clinical Cancer Care Harmony Facial | 45 min | — |
 
 ---
 
 ## Laser & Energy Treatments
 
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| BBL Hero Skin Rejuvenation | 45 min | — | Broad-band light for pigmentation, redness, texture |
-| BBL Consultation & Patch Test | 30 min | — | Required before first BBL treatment |
-| SkinTyte Skin Firming | 45 min | — | Non-invasive skin tightening |
-| Forma Treatment | 45 min | — | Radiofrequency for collagen stimulation |
-| Lumecca Treatment | 45 min | — | Intense pulsed light for pigmentation |
+| Treatment | Duration | Deposit |
+|---|---|---|
+| BBL Treatment | 45 min | — |
+| BBL Consultation & Patch Test | 30 min | — |
+| BBL Test (Only) | 15 min | — |
+| Lumecca Treatment | 45 min | — |
+| Lumecca Patch Test | 30 min | — |
+| Forma Treatment | 45 min | — |
 
 ---
 
@@ -107,40 +108,38 @@ Deep-cleansing, hydrating facials suitable for all skin types.
 
 Advanced radiofrequency microneedling for skin tightening and resurfacing.
 
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| Morpheus8 — Face and Neck | 60 min | £75 | RF microneedling for skin remodelling |
-| Morpheus8 — Body | 60 min | £75 | Body skin tightening and contouring |
-| CO2 Resurfacing Laser | 60 min | — | Fractional laser for scars, lines, and texture |
-| CO2 Glow (Mild Peel) | 30 min | — | Gentle CO2 laser for a refreshed glow |
-| CO2 + Exosomes | 60 min | — | Laser resurfacing enhanced with exosome therapy |
-| Secret PRO — Face and Neck | 45 min | £75 | RF microneedling for tightening and texture |
-| Secret PRO — Body | 45 min | £75 | Body skin tightening |
-
----
-
-## Hair Rejuvenation
-
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| PRP for Hair Growth | 30 min | £75 | Platelet-rich plasma stimulates hair follicles |
-| Exosome + SkinPen Hair Rejuvenation | 30 min | £75 | Microneedling with exosomes for thicker hair |
-
----
-
-## Body Contouring
-
-| Treatment | Duration | Deposit | Description |
-|---|---|---|---|
-| AQUALYX Fat Dissolving | — | £75 | Injectable fat reduction for targeted areas |
-| PROFHILO Body | — | £75 | Skin rejuvenation for body areas |
+| Treatment | Duration | Deposit |
+|---|---|---|
+| Morpheus 8 — Face and Neck | 60 min | £75 |
+| Morpheus 8 — Body | 60 min | £75 |
+| Morpheus 8 Tone | 30 min | — |
+| CO2 Resurfacing Laser | 60 min | — |
+| CO2 + Exosomes | 60 min | — |
+| CO2 Glow (Mild Peel) | 30 min | — |
+| Secret PRO — Face and Neck | 45 min | £75 |
+| Secret PRO — Body | 45 min | £75 |
 
 ---
 
 ## Intimate Female Rejuvenation
 
-| Treatment | Description |
+| Treatment | Duration |
 |---|---|
-| Forma V | Radiofrequency energy gently heats and tightens tissue, stimulating collagen |
-| Morpheus 8V | Microneedling with radiofrequency for deeper rejuvenation |
-| VTone | Electrical stimulation therapy for pelvic muscle toning |
+| Intimate Rejuvenation Morpheus V8 | 60 min |
+| Intimate V Tone | 30 min |
+| Intimate Forma V | 30 min |
+
+---
+
+## VIP Treatments
+
+Exclusive treatments available to VIP members at member pricing.
+
+| Treatment | Duration |
+|---|---|
+| VIP Hydrafacial Deluxe | 60 min |
+| VIP iS Clinical Fire + Ice Facial | 45 min |
+| VIP iS Clinical Foaming Enzyme Facial | 45 min |
+| VIP Hydrafacial Keravive (Half Scalp) | 45 min |
+| VIP Hydrafacial Body | 50 min |
+| VIP Morpheus 8 Tone | 30 min |

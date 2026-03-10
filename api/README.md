@@ -30,7 +30,7 @@ Check real-time appointment availability for a specific location and treatment.
 
 | Parameter | Required | Description |
 |---|---|---|
-| `location` | Yes | Clinic slug: `cobham`, `esher`, `wimbledon`, `east-horsley` |
+| `location` | Yes | Clinic slug: `cobham`, `esher`, `wimbledon` |
 | `treatment` | Yes | Treatment name (fuzzy matched). e.g. `hydrafacial`, `botox`, `lip fillers` |
 | `date` | No | Start date in `YYYY-MM-DD` format. Defaults to today. Returns up to 7 days. |
 

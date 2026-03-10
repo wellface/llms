@@ -36,18 +36,6 @@
 
 ---
 
-## Wellface East Horsley
-
-- **Address**: 10 Station Parade, Ockham Rd S, East Horsley, Leatherhead KT24 6QN
-- **Phone**: 01483 315 309
-- **WhatsApp**: [+44 7494 040010](https://wa.me/447494040010?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment)
-- **Hours**: Mon–Fri 09:00–21:00 | Sat 10:00–19:00
-- **Coordinates**: 51.2622, -0.4393
-- **Google Maps**: https://google.com/maps/search/?api=1&query=51.2622,-0.4393
-- **Treatments**: Full range — injectables, skin rejuvenation, laser, body contouring
-
----
-
 ## All locations
 
 - **Online booking**: https://wellface.uk1.cliniko.com/bookings

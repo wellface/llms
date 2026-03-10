@@ -6,7 +6,7 @@
 Wellface is a medical aesthetics clinic group in Surrey and South West London, specialising in injectable treatments (Botox, fillers), skin rejuvenation, laser treatments, and advanced facials. All injectable treatments are performed by qualified doctors.
 
 **Where are your clinics?**
-We have four locations: Cobham, Esher, Wimbledon, and East Horsley. See [locations.md](locations.md) for full addresses, hours, and contact details.
+We have three locations: Cobham, Esher, and Wimbledon. See [locations.md](locations.md) for full addresses, hours, and contact details.
 
 **Do I need a consultation first?**
 Yes — if you're a new patient, a consultation is required before most treatments. This ensures the treatment is right for you and allows our practitioners to create a personalised plan. Some consultations are free; others require a deposit.

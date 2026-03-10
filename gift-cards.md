@@ -24,7 +24,6 @@ Contact the clinic by phone, WhatsApp, or email to purchase a gift card:
 | Cobham | 01932 690 800 | [+44 7471 741680](https://wa.me/447471741680) |
 | Esher | 01372 826 649 | [+44 7471 741680](https://wa.me/447471741680) |
 | Wimbledon | 020 8914 8400 | [+44 7511 841998](https://wa.me/447511841998) |
-| East Horsley | 01483 315 309 | [+44 7494 040010](https://wa.me/447494040010) |
 
 ## Redemption
 
