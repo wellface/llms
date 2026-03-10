@@ -2,7 +2,7 @@
 
 A free, unauthenticated, read-only API to check real-time appointment availability at Wellface clinics.
 
-**Base URL**: `https://api.wellface.com/api/public`
+**Base URL**: `https://api.wellface.com`
 
 ## Endpoints
 
@@ -11,7 +11,7 @@ A free, unauthenticated, read-only API to check real-time appointment availabili
 Returns all clinic locations with addresses, phone numbers, WhatsApp links, and opening hours.
 
 ```bash
-curl https://api.wellface.com/api/public/locations
+curl https://api.wellface.com/locations
 ```
 
 ### GET /treatments
@@ -19,7 +19,7 @@ curl https://api.wellface.com/api/public/locations
 Returns all available treatment types with durations.
 
 ```bash
-curl https://api.wellface.com/api/public/treatments
+curl https://api.wellface.com/treatments
 ```
 
 ### GET /availability
@@ -37,7 +37,7 @@ Check real-time appointment availability for a specific location and treatment.
 **Example:**
 
 ```bash
-curl "https://api.wellface.com/api/public/availability?location=cobham&treatment=hydrafacial"
+curl "https://api.wellface.com/availability?location=cobham&treatment=hydrafacial"
 ```
 
 **Response:**
@@ -54,14 +54,13 @@ curl "https://api.wellface.com/api/public/availability?location=cobham&treatment
   ],
   "whatsapp": "https://wa.me/447471741680?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment",
   "phone": "01932 690 800",
-  "booking_url": "https://wellface.uk1.cliniko.com/bookings#schedule"
+  "booking_url": "https://www.wellface.com/book"
 }
 ```
 
 ## Rate Limits
 
 - 30 requests per minute per IP address
-- Results are cached for 10 minutes
 
 ## Important Notes
 
@@ -69,7 +68,7 @@ curl "https://api.wellface.com/api/public/availability?location=cobham&treatment
 - A **deposit is required** to secure bookings — direct users to the booking URL or WhatsApp
 - All times are in the **UK timezone** (GMT/BST)
 - Treatment names are **fuzzy matched** — "botox" will match "Anti-Wrinkle Treatment", "hydrafacial" will match "Hydrafacial Deluxe", etc.
-- If no slots are returned, it means the practitioner/treatment combination has no availability in the next 7 days
+- If no slots are returned, it means no availability exists in the next 7 days
 
 ## For ChatGPT / GPT Actions
 

@@ -3,7 +3,7 @@
 ## Online Booking
 
 Book directly through our online system:
-**https://wellface.uk1.cliniko.com/bookings#schedule**
+**https://www.wellface.com/book**
 
 1. Choose your clinic location
 2. Select a treatment category
@@ -38,7 +38,7 @@ Message the clinic directly — our team responds quickly during opening hours.
 Use our public API to check real-time availability before booking:
 
 ```
-GET https://api.wellface.com/api/public/availability?location=cobham&treatment=hydrafacial
+GET https://api.wellface.com/availability?location=cobham&treatment=hydrafacial
 ```
 
 See [api/README.md](api/README.md) for full documentation.

@@ -24,7 +24,7 @@ It is designed to be read and interpreted by AI assistants (ChatGPT, Claude, Gem
 We provide a free, unauthenticated API to check real-time appointment availability:
 
 ```
-GET https://api.wellface.com/api/public/availability?location=cobham&treatment=hydrafacial
+GET https://api.wellface.com/availability?location=cobham&treatment=hydrafacial
 ```
 
 See [api/README.md](api/README.md) for full documentation and the [OpenAPI spec](api/openapi.yaml).

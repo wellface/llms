@@ -12,7 +12,7 @@ info:
     email: contact@wellface.com
 
 servers:
-  - url: https://api.wellface.com/api/public
+  - url: https://api.wellface.com
     description: Production
 
 paths:
@@ -56,10 +56,13 @@ paths:
                           properties:
                             mon_fri:
                               type: string
-                              example: "09:00–21:00"
+                              example: "09:00-21:00"
                             sat:
                               type: string
-                              example: "10:00–19:00"
+                              example: "10:00-19:00"
+                            sun:
+                              type: string
+                              example: "Closed"
                         coordinates:
                           type: object
                           properties:
@@ -105,8 +108,8 @@ paths:
       summary: Check appointment availability
       description: >
         Returns real-time available appointment slots for a given clinic location
-        and treatment. Results are cached for 10 minutes. Treatment names are
-        fuzzy-matched — e.g. "botox" matches "Anti-Wrinkle Treatment".
+        and treatment. Treatment names are fuzzy-matched — e.g. "botox" matches
+        "Anti-Wrinkle Treatment".
       parameters:
         - name: location
           in: query
