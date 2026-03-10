@@ -1,0 +1,177 @@
+openapi: 3.1.0
+info:
+  title: Wellface Public API
+  description: >
+    Check real-time appointment availability at Wellface medical aesthetics clinics
+    in Surrey and South West London. This API is read-only — bookings require a
+    deposit and must be made via the online booking system or WhatsApp.
+  version: "1.0.0"
+  contact:
+    name: Wellface
+    url: https://www.wellface.com
+    email: contact@wellface.com
+
+servers:
+  - url: https://api.wellface.com/api/public
+    description: Production
+
+paths:
+  /locations:
+    get:
+      operationId: listLocations
+      summary: List all clinic locations
+      description: Returns all Wellface clinic locations with addresses, phone numbers, WhatsApp links, and opening hours.
+      responses:
+        "200":
+          description: List of clinic locations
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  locations:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        slug:
+                          type: string
+                          description: URL-friendly location identifier
+                          example: cobham
+                        name:
+                          type: string
+                          example: Wellface Cobham
+                        address:
+                          type: string
+                          example: "27 High Street, Cobham, Surrey KT11 3DH"
+                        phone:
+                          type: string
+                          example: "01932 690 800"
+                        whatsapp:
+                          type: string
+                          format: uri
+                          description: WhatsApp deep link for booking enquiries
+                        hours:
+                          type: object
+                          properties:
+                            mon_fri:
+                              type: string
+                              example: "09:00–21:00"
+                            sat:
+                              type: string
+                              example: "10:00–19:00"
+                        coordinates:
+                          type: object
+                          properties:
+                            lat:
+                              type: number
+                            lng:
+                              type: number
+                        booking_url:
+                          type: string
+                          format: uri
+
+  /treatments:
+    get:
+      operationId: listTreatments
+      summary: List available treatments
+      description: Returns all treatment types available for booking, with durations.
+      responses:
+        "200":
+          description: List of treatments
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  treatments:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        name:
+                          type: string
+                          example: Hydrafacial Deluxe
+                        duration_minutes:
+                          type: integer
+                          example: 60
+                  booking_url:
+                    type: string
+                    format: uri
+
+  /availability:
+    get:
+      operationId: checkAvailability
+      summary: Check appointment availability
+      description: >
+        Returns real-time available appointment slots for a given clinic location
+        and treatment. Results are cached for 10 minutes. Treatment names are
+        fuzzy-matched — e.g. "botox" matches "Anti-Wrinkle Treatment".
+      parameters:
+        - name: location
+          in: query
+          required: true
+          description: "Clinic location slug: cobham, esher, wimbledon, east-horsley"
+          schema:
+            type: string
+            enum: [cobham, esher, wimbledon, east-horsley]
+        - name: treatment
+          in: query
+          required: true
+          description: "Treatment name (fuzzy matched). Examples: hydrafacial, botox, lip fillers, profhilo"
+          schema:
+            type: string
+        - name: date
+          in: query
+          required: false
+          description: "Start date (YYYY-MM-DD). Defaults to today. Returns up to 7 days of availability."
+          schema:
+            type: string
+            format: date
+      responses:
+        "200":
+          description: Available appointment slots
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  location:
+                    type: string
+                    example: Wellface Cobham
+                  treatment:
+                    type: string
+                    example: Hydrafacial Deluxe
+                  duration_minutes:
+                    type: integer
+                    example: 60
+                  slots:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        date:
+                          type: string
+                          format: date
+                          example: "2026-03-15"
+                        time:
+                          type: string
+                          example: "10:00"
+                        practitioner:
+                          type: string
+                          description: First name only
+                          example: Simone
+                  whatsapp:
+                    type: string
+                    format: uri
+                    description: WhatsApp link to book at this clinic
+                  phone:
+                    type: string
+                  booking_url:
+                    type: string
+                    format: uri
+                    description: Online booking page
+        "400":
+          description: Invalid location or unrecognised treatment name
+        "429":
+          description: Rate limit exceeded (30 requests/minute per IP)
