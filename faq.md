@@ -19,7 +19,7 @@ You must be 18 or over for injectable treatments. Teenage Hydrafacials are avail
 ## Booking & Payments
 
 **How do I book?**
-- **Online**: https://www.wellface.com/book
+- **Online**: https://wellface.uk1.cliniko.com/bookings
 - **WhatsApp**: Message the clinic directly (see [locations.md](locations.md))
 - **Phone**: Call the clinic (see [locations.md](locations.md))
 

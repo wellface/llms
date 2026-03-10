@@ -50,6 +50,6 @@
 
 ## All locations
 
-- **Online booking**: https://www.wellface.com/book
+- **Online booking**: https://wellface.uk1.cliniko.com/bookings
 - **Email**: contact@wellface.com
 - All clinics are closed on Sundays

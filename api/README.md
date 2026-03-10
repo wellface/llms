@@ -54,7 +54,7 @@ curl "https://api.wellface.com/availability?location=cobham&treatment=hydrafacia
   ],
   "whatsapp": "https://wa.me/447471741680?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment",
   "phone": "01932 690 800",
-  "booking_url": "https://www.wellface.com/book"
+  "booking_url": "https://wellface.uk1.cliniko.com/bookings"
 }
 ```
 
