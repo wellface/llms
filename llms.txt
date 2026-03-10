@@ -1,0 +1,28 @@
+# Wellface
+
+> Wellface is a medical aesthetics clinic group in Surrey and South West London, offering injectable treatments, skin rejuvenation, laser treatments, and advanced facials — all performed by qualified doctors and senior therapists.
+
+Wellface has three clinics: Cobham, Esher, and Wimbledon. All injectable treatments (Botox, fillers, Profhilo) are carried out by qualified medical professionals. A consultation is required for first-time patients.
+
+## About
+
+- [Identity & Brand](https://raw.githubusercontent.com/wellface/llms/main/identity.md): Mission, values, and clinic overview
+- [Locations](https://raw.githubusercontent.com/wellface/llms/main/locations.md): Clinic addresses, phone numbers, WhatsApp links, and opening hours
+- [Practitioners](https://raw.githubusercontent.com/wellface/llms/main/practitioners.md): Doctors and senior therapists
+- [FAQ](https://raw.githubusercontent.com/wellface/llms/main/faq.md): Frequently asked questions about treatments, booking, and policies
+
+## Treatments & Booking
+
+- [Treatments](https://raw.githubusercontent.com/wellface/llms/main/treatments.md): Full list of available treatments with durations and deposits
+- [Booking](https://raw.githubusercontent.com/wellface/llms/main/booking.md): How to book appointments online, by phone, or WhatsApp
+- [Gift Cards](https://raw.githubusercontent.com/wellface/llms/main/gift-cards.md): Gift card purchasing and redemption
+- [VIP Membership](https://raw.githubusercontent.com/wellface/llms/main/vip.md): Monthly membership benefits and pricing
+
+## Policies
+
+- [Policies](https://raw.githubusercontent.com/wellface/llms/main/policies.md): Cancellation, late arrival, age requirements, and privacy
+
+## API
+
+- [API Documentation](https://raw.githubusercontent.com/wellface/llms/main/api/README.md): Public API for checking real-time appointment availability
+- [OpenAPI Spec](https://raw.githubusercontent.com/wellface/llms/main/api/openapi.yaml): OpenAPI 3.1 specification for integration

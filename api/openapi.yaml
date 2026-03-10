@@ -127,7 +127,7 @@ paths:
         - name: date
           in: query
           required: false
-          description: "Start date (YYYY-MM-DD). Defaults to today. Returns up to 7 days of availability."
+          description: "Start date (YYYY-MM-DD). Defaults to today. Returns up to 14 days of availability."
           schema:
             type: string
             format: date

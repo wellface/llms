@@ -32,15 +32,41 @@ Check real-time appointment availability for a specific location and treatment.
 |---|---|---|
 | `location` | Yes | Clinic slug: `cobham`, `esher`, `wimbledon` |
 | `treatment` | Yes | Treatment name (fuzzy matched). e.g. `hydrafacial`, `botox`, `lip fillers` |
-| `date` | No | Start date in `YYYY-MM-DD` format. Defaults to today. Returns up to 7 days. |
+| `date` | No | Start date in `YYYY-MM-DD` format. Defaults to today. Returns up to 14 days. |
 
-**Example:**
+**Examples:**
 
+Hydrafacial availability at Cobham:
 ```bash
 curl "https://api.wellface.com/availability?location=cobham&treatment=hydrafacial"
 ```
 
-**Response:**
+Botox availability at Esher:
+```bash
+curl "https://api.wellface.com/availability?location=esher&treatment=botox"
+```
+
+Lip fillers availability at Wimbledon:
+```bash
+curl "https://api.wellface.com/availability?location=wimbledon&treatment=lip fillers"
+```
+
+Profhilo availability at Cobham starting from a specific date:
+```bash
+curl "https://api.wellface.com/availability?location=cobham&treatment=profhilo&date=2026-03-20"
+```
+
+Morpheus 8 availability at Esher:
+```bash
+curl "https://api.wellface.com/availability?location=esher&treatment=morpheus 8"
+```
+
+Dermal fillers availability at Wimbledon:
+```bash
+curl "https://api.wellface.com/availability?location=wimbledon&treatment=dermal fillers"
+```
+
+**Example response:**
 
 ```json
 {
@@ -48,9 +74,9 @@ curl "https://api.wellface.com/availability?location=cobham&treatment=hydrafacia
   "treatment": "Hydrafacial Deluxe",
   "duration_minutes": 60,
   "slots": [
-    { "date": "2026-03-15", "time": "10:00", "practitioner": "Simone" },
-    { "date": "2026-03-15", "time": "11:30", "practitioner": "Simone" },
-    { "date": "2026-03-16", "time": "14:00", "practitioner": "Kitty" }
+    { "date": "2026-03-13", "time": "13:30", "practitioner": "Simone" },
+    { "date": "2026-03-18", "time": "10:00", "practitioner": "Simone" },
+    { "date": "2026-03-20", "time": "14:00", "practitioner": "Kitty" }
   ],
   "whatsapp": "https://wa.me/447471741680?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment",
   "phone": "01932 690 800",
@@ -68,7 +94,7 @@ curl "https://api.wellface.com/availability?location=cobham&treatment=hydrafacia
 - A **deposit is required** to secure bookings — direct users to the booking URL or WhatsApp
 - All times are in the **UK timezone** (GMT/BST)
 - Treatment names are **fuzzy matched** — "botox" will match "Anti-Wrinkle Treatment", "hydrafacial" will match "Hydrafacial Deluxe", etc.
-- If no slots are returned, it means no availability exists in the next 7 days
+- If no slots are returned, it means no availability exists in the next 14 days
 
 ## For ChatGPT / GPT Actions
 
