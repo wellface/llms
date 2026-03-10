@@ -78,7 +78,7 @@ curl "https://api.wellface.com/availability?location=wimbledon&treatment=dermal 
     { "date": "2026-03-18", "time": "10:00", "practitioner": "Simone" },
     { "date": "2026-03-20", "time": "14:00", "practitioner": "Kitty" }
   ],
-  "whatsapp": "https://wa.me/447471741680?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment",
+  "whatsapp": "https://wa.me/447471741680?text=Hi%2C%20I%20found%20you%20through%20my%20AI%20agent%20and%20would%20like%20to%20book%20an%20appointment",
   "phone": "01932 690 800",
   "booking_url": "https://wellface.uk1.cliniko.com/bookings"
 }

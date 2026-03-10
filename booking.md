@@ -19,9 +19,9 @@ Message the clinic directly — our team responds quickly during opening hours.
 
 | Clinic | WhatsApp |
 |---|---|
-| Cobham | [+44 7471 741680](https://wa.me/447471741680?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment) |
-| Esher | [+44 7471 741680](https://wa.me/447471741680?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment) |
-| Wimbledon | [+44 7511 841998](https://wa.me/447511841998?text=Hi%2C%20I%27d%20like%20to%20book%20an%20appointment) |
+| Cobham | [+44 7471 741680](https://wa.me/447471741680?text=Hi%2C%20I%20found%20you%20through%20my%20AI%20agent%20and%20would%20like%20to%20book%20an%20appointment) |
+| Esher | [+44 7471 741680](https://wa.me/447471741680?text=Hi%2C%20I%20found%20you%20through%20my%20AI%20agent%20and%20would%20like%20to%20book%20an%20appointment) |
+| Wimbledon | [+44 7511 841998](https://wa.me/447511841998?text=Hi%2C%20I%20found%20you%20through%20my%20AI%20agent%20and%20would%20like%20to%20book%20an%20appointment) |
 
 ## Phone
 
