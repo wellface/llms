@@ -8,13 +8,13 @@ All treatments are carried out by qualified medical professionals (doctors) or e
 |---|---|---|
 | Facial Aesthetics (Any Doctor) | 45 min | — |
 | Facial Aesthetics Consultation | 30 min | — |
-| Skin Consultation (Therapist) | 30 min | — |
+| Skin Consultation (Therapist) | 30 min | £50 |
 | Skin Consultation (Therapist) 15 Mins | 15 min | — |
 | Tear Trough Consultation (Any Doctor) | 30 min | £75 |
 | Rhinoplasty Consultation (Any Doctor) | 30 min | £75 |
 | Fat Loss AQUALYX Consultation (Any Doctor) | 15 min | £75 |
 | Hair Rejuvenation Consultation (Any Doctor) | 20 min | £75 |
-| Morpheus8 Consultation | 20 min | — |
+| Morpheus8 Consultation | 20 min | £50 |
 | Women's Intimate Health Consultation | 45 min | — |
 
 ---
@@ -65,10 +65,10 @@ Deep-cleansing, hydrating facials suitable for all skin types.
 |---|---|---|
 | Hydrafacial Deluxe | 60 min | £75 |
 | Wellface Ultimate Hydrafacial | 75 min | £75 |
-| Advanced Fusion Facial | 75 min | — |
+| Advanced Fusion Facial | 75 min | £50 |
 | Advanced Fusion D | 30 min | — |
 | Wet Diamond Hydrafacial | 60 min | — |
-| Teenage Hydrafacial | 45 min | — |
+| Teenage Hydrafacial | 45 min | £50 |
 | Hydrafacial Body | 50 min | — |
 | Hydrafacial Keravive (Full Scalp) | 75 min | £75 |
 | Hydrafacial Keravive (Half Scalp) | 45 min | £75 |
@@ -81,12 +81,12 @@ Deep-cleansing, hydrating facials suitable for all skin types.
 |---|---|---|
 | Micro-Needling SkinPen for Face (Existing Patients) | 45 min | £75 |
 | Obagi Blue Peel Radiance | 45 min | — |
-| ZO Restorative Peel | 45 min | — |
-| ZO Stimulator Peel | 45 min | — |
-| ZO Add On Peel | 15 min | — |
-| LED Light Therapy | 30 min | — |
+| ZO Restorative Peel | 45 min | £50 |
+| ZO Stimulator Peel | 45 min | £50 |
+| ZO Add On Peel | 15 min | £50 |
+| LED Light Therapy | 30 min | £50 |
 | iS Clinical Fire + Ice Facial | 45 min | — |
-| iS Clinical Foaming Enzyme Facial | 45 min | — |
+| iS Clinical Foaming Enzyme Facial | 45 min | £60 |
 | iS Clinical Cancer Care Harmony Facial | 45 min | — |
 
 ---
@@ -112,7 +112,7 @@ Advanced radiofrequency microneedling for skin tightening and resurfacing.
 |---|---|---|
 | Morpheus 8 — Face and Neck | 60 min | £75 |
 | Morpheus 8 — Body | 60 min | £75 |
-| Morpheus 8 Tone | 30 min | — |
+| Morpheus 8 Tone | 30 min | £50 |
 | CO2 Resurfacing Laser | 60 min | — |
 | CO2 + Exosomes | 60 min | — |
 | CO2 Glow (Mild Peel) | 30 min | — |

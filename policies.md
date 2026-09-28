@@ -2,7 +2,7 @@
 
 ## Cancellation Policy
 
-- All appointments require a booking deposit of **£50 or £75** (depending on treatment)
+- All appointments require a booking deposit of **£50 to £75** (depending on treatment)
 - The deposit is redeemed against your treatment cost or can be used towards product purchases
 - **48 hours' notice** is required to cancel or reschedule
 - Cancellations with less than 48 hours' notice will forfeit the deposit as a cancellation fee
