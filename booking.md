@@ -3,7 +3,7 @@
 ## Online Booking
 
 Book directly through our online system:
-**https://wellface.uk1.cliniko.com/bookings**
+**https://www.wellface.com/book-online/**
 
 1. Choose your clinic location
 2. Select a treatment category
